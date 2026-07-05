@@ -311,9 +311,6 @@ I'm always up for a conversation about tech, startups, or system design.
   <img src="https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvs/?username=Gituswaraj&label=Profile%20Views&color=A78BFA&style=flat-square" alt="Profile Views" />
 
 </div>
 
