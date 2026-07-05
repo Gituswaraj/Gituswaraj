@@ -29,7 +29,7 @@ location: New Delhi, India
 education: B.Tech (ECE) — BPIT, IPU | CGPA: 8.4
 
 currently:
-  - 🔭 Building scalable admin dashboards & web solutions
+  - 🔭 Building Clauseai.in
   - 🌱 Deepening expertise in System Design & DSA
   - 👯 Open to collaborating on full-stack projects
   - 🏆 3rd Place — Crack-a-Code 3.0 Hackathon (Nagarro)
