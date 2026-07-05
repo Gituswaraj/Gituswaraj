@@ -1,331 +1,227 @@
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 ANIMATED HEADER                                                       -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!-- Hey there! Thanks for stopping by 👋 -->
+<!-- This isn't just another auto-generated README — I actually spent time on this one. -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Swaraj%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descColor=c9d1d9&animation=fadeIn" />
+<div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ TYPING ANIMATION                                                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Swaraj%20Kumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=I%20build%20things%20for%20the%20web%20✦%20sometimes%20they%20even%20work&descSize=16&descAlignY=62&descColor=ffffffaa)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+full-stack+applications;%F0%9F%92%A1+MERN+Stack+%7C+TypeScript+%7C+Next.js+%7C+System+Design;%F0%9F%8E%AF+Turning+ideas+into+production-ready+systems" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=500&height=35&lines=software+engineer+%40+matebiz;currently+building+clauseai.in;mern+%7C+typescript+%7C+next.js;i+like+solving+hard+problems;ask+me+about+system+design)](https://github.com/Gituswaraj)
 
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME                                                               -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+</div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### `> whoami`
 
-```yaml
-name: Swaraj Kumar
-role: Software Engineer @ MateBiz Pvt Ltd
-location: New Delhi, India
-education: B.Tech (ECE) — BPIT, IPU | CGPA: 8.4
+I'm a software engineer from **New Delhi, India** who genuinely enjoys building things that live on the internet. Whether it's a complex admin dashboard or a weekend side project, I care about clean architecture, smooth UX, and code that doesn't make future-me cry.
 
-currently:
-  - 🔭 Building Clauseai.in
-  - 🌱 Deepening expertise in System Design & DSA
-  - 👯 Open to collaborating on full-stack projects
-  - 🏆 3rd Place — Crack-a-Code 3.0 Hackathon (Nagarro)
+Right now I'm at **[MateBiz Pvt Ltd](https://matebiz.com)** where I build scalable web solutions — from translating Figma designs to pixel-perfect React interfaces, to optimizing Node.js backends. Previously shipped frontend for **U.S. hospital cybersecurity analytics** at Comtech Info Solutions.
 
-fun_fact: "I debug with console.log and I'm not ashamed 😄"
+When I'm not coding, I'm probably studying system design patterns, trying to improve my competitive programming rating, or organizing college tech events.
+
+<br>
+
+<table>
+<tr><td>📍</td><td>New Delhi, India</td></tr>
+<tr><td>🎓</td><td>B.Tech ECE — BPIT, IPU (CGPA 8.4)</td></tr>
+<tr><td>🔭</td><td>Currently building <strong><a href="https://clauseai.in">Clauseai.in</a></strong></td></tr>
+<tr><td>🏆</td><td>3rd Place — Crack-a-Code 3.0 Hackathon (Nagarro)</td></tr>
+<tr><td>📫</td><td><a href="mailto:swarajkumar830@gmail.com">swarajkumar830@gmail.com</a></td></tr>
+</table>
+
+---
+
+### 🧰 what i work with
+
+I don't believe in listing every technology I've ever touched. Here's what I **actually** use and feel confident with:
+
+<div align="center">
+
+**`languages`**
+
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**`frontend`**
+
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A.svg?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**`backend & databases`**
+
+![Node.js](https://img.shields.io/badge/Node.js-233056.svg?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-000.svg?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-023430.svg?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-00546B.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**`tools i can't live without`**
+
+![Git](https://img.shields.io/badge/Git-1F2328.svg?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-1F2328.svg?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1F2328.svg?style=flat-square&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-1F2328.svg?style=flat-square&logo=figma&logoColor=F24E1E)
+![Tableau](https://img.shields.io/badge/Tableau-1F2328.svg?style=flat-square&logo=tableau&logoColor=E97627)
+
+</div>
+
+---
+
+### 🚀 things i've built
+
+> *I learn best by building. Here are some projects I'm proud of — each one taught me something new.*
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 [Aapki Apni Dukan](https://github.com/Gituswaraj/Aapki-Apni-Dukan-E-com-)** &nbsp; [![Live](https://img.shields.io/badge/↗_live-6C63FF?style=flat-square)](https://aapki-apni-dukan-e-com.vercel.app)
+
+A full-stack e-commerce platform — product browsing, cart management, checkout flow. My first "real" MERN project that actually went to production.
+
+`react` `node.js` `mongodb` `express`
+
+</td>
+<td width="50%" valign="top">
+
+**✈️ [TourPhin](https://github.com/Gituswaraj/TourPhin)** &nbsp; [![Live](https://img.shields.io/badge/↗_live-6C63FF?style=flat-square)](https://tour-phin.vercel.app)
+
+A travel discovery app. Built this to practice API integration and complex UI interactions. Learned a lot about state management here.
+
+`react` `node.js` `javascript` `rest-api`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ [Personal Task Manager](https://github.com/Gituswaraj/Personal-Task-Manager)** &nbsp; [![Live](https://img.shields.io/badge/↗_live-6C63FF?style=flat-square)](https://personal-task-manager-wine.vercel.app/)
+
+Full CRUD task management app built with TypeScript. Focused on type safety and clean architecture patterns.
+
+`typescript` `react` `node.js` `mongodb`
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [1on1 Chat](https://github.com/Gituswaraj/1on1)**
+
+Real-time messaging app with Socket.io. Tackled websockets, event-driven architecture, and managing connection states.
+
+`javascript` `react` `socket.io` `node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ [TasteMate](https://github.com/Gituswaraj/tastemate)** &nbsp; [![Live](https://img.shields.io/badge/↗_live-6C63FF?style=flat-square)](https://tastemate-lilac.vercel.app)
+
+Food discovery platform — browse, search, and explore meals. Quick weekend project that turned out pretty clean.
+
+`javascript` `react` `api-integration`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 [System Design Notes](https://github.com/Gituswaraj/SystemDesign)**
+
+My personal collection of system design patterns and DSA implementations in C++. More of a learning journal than a product.
+
+`c++` `algorithms` `system-design`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 💼 where i've worked
+
+```
+📌 Software Engineer    → MateBiz Pvt Ltd, New Delhi         (Mar 2026 – Present)
+   ├─ Building scalable admin dashboards with React.js & Node.js
+   ├─ Translating Figma mockups → pixel-perfect responsive UIs
+   └─ Managing WordPress solutions, hosting via cPanel
+
+📌 SDE Intern           → Comtech Info Solutions, New Delhi   (Jul – Dec 2025)
+   ├─ Built frontend survey forms (React.js) for U.S. hospital systems
+   └─ Analyzed cybersecurity threats and vulnerability data
+
+📌 Research Intern      → mDoc Info Pvt Ltd, Jharkhand        (Jul – Dec 2024)
+   ├─ Collected & analyzed market trends and competitor data
+   └─ Prepared research reports with actionable business insights
 ```
 
-<br clear="both" />
+---
 
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK                                                            -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+### 📊 the numbers
 
-## 🛠️ Tech Stack & Tools
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚛️ Frontend</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 Backend & Databases</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-</details>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💼 WORK EXPERIENCE                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| **Software Engineer** | MateBiz Pvt Ltd, New Delhi | Mar 2026 – Present | Scalable admin dashboards (React.js, Node.js), Figma-to-code, WordPress optimization |
-| **SDE Intern** | Comtech Info Solutions, New Delhi | Jul – Dec 2025 | Frontend survey forms (React.js) for U.S. hospital cybersecurity analytics |
-| **Business Research Intern** | mDoc Info Pvt Ltd, Jharkhand | Jul – Dec 2024 | Market trend analysis, competitor insights, strategic research reports |
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS                                                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Aapki Apni Dukan</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/Aapki-Apni-Dukan-E-com-">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://aapki-apni-dukan-e-com.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Full-stack E-commerce Platform</strong></p>
-      <p align="center">A complete online shopping experience with product listings, cart management, and seamless checkout.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ TourPhin</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/TourPhin">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://tour-phin.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Travel Discovery App</strong></p>
-      <p align="center">Discover and plan your dream trips with a beautifully designed travel exploration platform.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✅ Personal Task Manager</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/Personal-Task-Manager">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://personal-task-manager-wine.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>CRUD Task Management</strong></p>
-      <p align="center">Create, view, update, and delete personal tasks with a clean, intuitive interface.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 1on1 Chat App</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/1on1">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Real-time Chat Application</strong></p>
-      <p align="center">A real-time messaging platform enabling seamless one-on-one conversations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+<img width="47%" src="https://streak-stats.demolab.com/?user=Gituswaraj&theme=nightowl&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=400" alt="streak" />
+&nbsp;&nbsp;
+<img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gituswaraj&show_icons=true&theme=nightowl&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&custom_title=Swaraj's%20GitHub%20Stats" alt="stats" />
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ TasteMate</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/tastemate">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://tastemate-lilac.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>Food Discovery Platform</strong></p>
-      <p align="center">Explore and discover delicious meals with a curated food recommendation experience.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 System Design Notes</h3>
-      <p align="center">
-        <a href="https://github.com/Gituswaraj/SystemDesign">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center"><strong>System Design & DSA</strong></p>
-      <p align="center">Collection of system design patterns, solutions, and data structure implementations in C++.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gituswaraj&layout=compact&theme=nightowl&hide_border=true&border_radius=12&langs_count=6" alt="top languages" />
 
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                           -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gituswaraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gituswaraj&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gituswaraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Gituswaraj&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 ACTIVITY GRAPH                                                         -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gituswaraj&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎓 EDUCATION & ACHIEVEMENTS                                               -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education & Achievements
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><strong>B.Tech — Electronics & Communication Engineering</strong><br>Bhagwan Parshuram Institute of Technology, IPU (2022 – 2026)<br>CGPA: <strong>8.4</strong></td>
-  </tr>
-  <tr>
-    <td>🏅</td>
-    <td><strong>3rd Place — Crack-a-Code 3.0 Hackathon (Nagarro)</strong><br>Led a 3-member team showcasing problem solving, algorithmic thinking & coding proficiency</td>
-  </tr>
-  <tr>
-    <td>🎤</td>
-    <td><strong>Coordinator — BPIT Cultural Society</strong><br>Led 10+ tech & non-tech events, improving campus engagement by 25%</td>
-  </tr>
-</table>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📄 RESUME                                                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 📄 Resume
-
-<p align="center">
-  <a href="https://github.com/Gituswaraj/Gituswaraj/raw/main/SWARAJ_KUMAR_SEF.pdf">
-    <img src="https://img.shields.io/badge/📄_Download_My_Resume-6C63FF?style=for-the-badge&logoColor=white" alt="Resume" />
-  </a>
-</p>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🤝 CONNECT WITH ME                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:swarajkumar830@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/swaraj-kumar-07470b259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/Gituswaraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://portfolio-swarajs-projects-69d918fd.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!-- 👀 VISITOR COUNTER & FOOTER                                               -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+</div>
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gituswaraj&bg_color=011627&color=79d3c4&line=c792ea&point=ffeb95&area=true&area_color=c792ea22&hide_border=true&radius=12" width="95%" alt="activity" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=120&section=footer" />
+---
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  Made with ❤️ by Swaraj Kumar                           ║
-  ║  github.com/Gituswaraj                                  ║
-  ╚══════════════════════════════════════════════════════════╝
--->
+### 📄 grab my resume
+
+<div align="center">
+
+If you'd rather see things in a PDF format →
+
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-1F2328?style=for-the-badge&logoColor=white)](https://github.com/Gituswaraj/Gituswaraj/raw/main/SWARAJ_KUMAR_SEF.pdf)
+
+</div>
+
+---
+
+### 🤙 let's connect
+
+<div align="center">
+
+I'm always up for a conversation about tech, startups, or system design.
+
+[![Gmail](https://img.shields.io/badge/swarajkumar830@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swarajkumar830@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/swaraj--kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-kumar-07470b259/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Gituswaraj-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gituswaraj)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-swarajs-projects-69d918fd.vercel.app)
+&nbsp;&nbsp;
+[![Clauseai](https://img.shields.io/badge/Clauseai.in-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://clauseai.in)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer)
+
+*"The best code is the one you never have to explain."*
+
+</div>
