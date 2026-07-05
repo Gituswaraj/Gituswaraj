@@ -320,13 +320,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvs/?username=Gituswaraj&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=120&section=footer" />
 
