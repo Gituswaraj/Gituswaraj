@@ -220,7 +220,7 @@ I genuinely enjoy solving problems — whether it's architecting a system, debug
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Gituswaraj/Gituswaraj/main/stats/streak-stats.svg" alt="Streak Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Gituswaraj&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gituswaraj&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
