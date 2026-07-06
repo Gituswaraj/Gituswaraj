@@ -217,27 +217,6 @@ I genuinely enjoy solving problems — whether it's architecting a system, debug
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gituswaraj&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gituswaraj&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gituswaraj&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Gituswaraj&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
